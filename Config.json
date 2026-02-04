@@ -1,0 +1,29 @@
+{
+  "user": {
+    "email": " na@hotmail.com",
+    "password": "AyKf",
+    "first_name": "nf",
+    "last_name": "aif",
+    "address_line1": "123 Sneaker Street",
+    "address_line2": "",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97201",
+    "phone": "5031234567",
+    "card_number": "4111111111111111",
+    "card_exp_month": "12",
+    "card_exp_year": "2027",
+    "card_cvv": "123"
+  },
+  "bot": {
+    "shoe_url": "https://www.nike.com/launch/t/little-kids-jordan-1-low-medium-olive-and-summit-white-na",
+    "shoe_size": "11C",
+    "drop_time": null,
+    "refresh_interval": 3,
+    "page_load_timeout": 15,
+    "element_timeout": 10,
+    "headless": false,
+    "retry_limit": 5,
+    "log_level": "INFO"
+  }
+}
